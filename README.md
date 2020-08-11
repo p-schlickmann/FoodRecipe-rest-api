@@ -1,2 +1,2 @@
-# Django recipes RESTful-API
+# Food Recipes RESTful-API
 
