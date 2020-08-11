@@ -1,1 +1,2 @@
-# New Django App
+# Django recipes RESTful-API
+
